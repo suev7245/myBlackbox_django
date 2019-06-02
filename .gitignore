@@ -1,0 +1,8 @@
+**/__pycache__
+Lib
+Scripts
+Include
+**/videos
+.idea
+.git_jieun
+pyvenv.cfg
