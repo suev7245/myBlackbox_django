@@ -29,7 +29,7 @@
           <tbody>
             {% for info in infos %}
             {% if info.match == 1%}
-            <tr onclick="setCurTime({{info.frame}})" style="background:#fffacb;">
+            <tr onclick="setCurTime({{info.frame}})" style="background:#fffacb; ">
             {% else %}
             <tr onclick="setCurTime({{info.frame}})">
             {%endif%}
